@@ -3,7 +3,7 @@
 ## Video Output:
 https://user-images.githubusercontent.com/29010350/204255452-e73bfd85-6e0f-46c3-a722-42645ba8c906.mp4
 
-## Scenerio
+## Scenario
 1. Open the EMI calculator app 
 2. Navigate to the EMI calculator screen
 3. Input necessary fields
